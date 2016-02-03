@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## cacheMatrix.R
+
 
 ## makeVector creates a special "vector", which is really a list containing a function to
 ## 1) set the value of the vector
